@@ -1,0 +1,15 @@
+TCP Client-Server Performance Summary
+====================================
+
+Server IP Address: 127.0.0.1
+Client IP Address: 127.0.0.1
+
+Total Packets Sent: 140
+Total Packets Received: 140
+Packets Dropped: 1
+Overall Goodput: 1.0000
+
+Window Size Statistics:
+  Initial Window Size: 10
+  Final Window Size: 131
+  Average Window Size: 74.36

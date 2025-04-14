@@ -1,0 +1,461 @@
+2025-04-13 13:54:19,264 - INFO - Server started on 127.0.0.1:12347
+2025-04-13 13:54:21,266 - INFO - Connected to server at 127.0.0.1:12347
+2025-04-13 13:54:21,266 - INFO - Connection established with ('127.0.0.1', 60702)
+2025-04-13 13:54:21,266 - INFO - Received initial string: network
+2025-04-13 13:54:21,267 - INFO - Server response: Connection setup success
+2025-04-13 13:54:21,267 - INFO - Sent packet 0
+2025-04-13 13:54:21,267 - INFO - Received new packet: SEQ:0
+2025-04-13 13:54:21,267 - INFO - Received ACK for packet 0
+2025-04-13 13:54:21,318 - INFO - Sent packet 1
+2025-04-13 13:54:21,318 - INFO - Received new packet: SEQ:1
+2025-04-13 13:54:21,318 - INFO - Received ACK for packet 1
+2025-04-13 13:54:21,368 - INFO - Sent packet 2
+2025-04-13 13:54:21,369 - INFO - Received new packet: SEQ:2
+2025-04-13 13:54:21,369 - INFO - Received ACK for packet 2
+2025-04-13 13:54:21,419 - INFO - Sent packet 3
+2025-04-13 13:54:21,419 - INFO - Received new packet: SEQ:3
+2025-04-13 13:54:21,420 - INFO - Received ACK for packet 3
+2025-04-13 13:54:21,470 - INFO - Sent packet 4
+2025-04-13 13:54:21,470 - INFO - Received new packet: SEQ:4
+2025-04-13 13:54:21,471 - INFO - Received ACK for packet 4
+2025-04-13 13:54:21,521 - INFO - Sent packet 5
+2025-04-13 13:54:21,521 - INFO - Received new packet: SEQ:5
+2025-04-13 13:54:21,522 - INFO - Received ACK for packet 5
+2025-04-13 13:54:21,572 - INFO - Sent packet 6
+2025-04-13 13:54:21,572 - INFO - Received new packet: SEQ:6
+2025-04-13 13:54:21,572 - INFO - Received ACK for packet 6
+2025-04-13 13:54:21,622 - INFO - Sent packet 7
+2025-04-13 13:54:21,623 - INFO - Received new packet: SEQ:7
+2025-04-13 13:54:21,623 - INFO - Received ACK for packet 7
+2025-04-13 13:54:21,673 - INFO - Sent packet 8
+2025-04-13 13:54:21,673 - INFO - Received new packet: SEQ:8
+2025-04-13 13:54:21,674 - INFO - Received ACK for packet 8
+2025-04-13 13:54:21,724 - INFO - Sent packet 9
+2025-04-13 13:54:21,724 - INFO - Received new packet: SEQ:9
+2025-04-13 13:54:21,724 - INFO - Server received 10 packets
+2025-04-13 13:54:21,724 - INFO - Received ACK for packet 9
+2025-04-13 13:54:21,975 - INFO - Window slid from 0 to 10
+2025-04-13 13:54:21,975 - INFO - Sent packet 10
+2025-04-13 13:54:21,975 - INFO - Received new packet: SEQ:10
+2025-04-13 13:54:21,975 - INFO - Received ACK for packet 10
+2025-04-13 13:54:22,026 - INFO - Sent packet 11
+2025-04-13 13:54:22,026 - INFO - Received new packet: SEQ:11
+2025-04-13 13:54:22,026 - INFO - Received ACK for packet 11
+2025-04-13 13:54:22,077 - INFO - Sent packet 12
+2025-04-13 13:54:22,077 - INFO - Received new packet: SEQ:12
+2025-04-13 13:54:22,077 - INFO - Received ACK for packet 12
+2025-04-13 13:54:22,127 - INFO - Sent packet 13
+2025-04-13 13:54:22,128 - INFO - Received new packet: SEQ:13
+2025-04-13 13:54:22,128 - INFO - Received ACK for packet 13
+2025-04-13 13:54:22,178 - INFO - Sent packet 14
+2025-04-13 13:54:22,178 - INFO - Received new packet: SEQ:14
+2025-04-13 13:54:22,179 - INFO - Received ACK for packet 14
+2025-04-13 13:54:22,229 - INFO - Sent packet 15
+2025-04-13 13:54:22,229 - INFO - Received new packet: SEQ:15
+2025-04-13 13:54:22,229 - INFO - Received ACK for packet 15
+2025-04-13 13:54:22,280 - INFO - Sent packet 16
+2025-04-13 13:54:22,280 - INFO - Received new packet: SEQ:16
+2025-04-13 13:54:22,280 - INFO - Received ACK for packet 16
+2025-04-13 13:54:22,330 - INFO - Sent packet 17
+2025-04-13 13:54:22,331 - INFO - Received new packet: SEQ:17
+2025-04-13 13:54:22,331 - INFO - Received ACK for packet 17
+2025-04-13 13:54:22,381 - INFO - Sent packet 18
+2025-04-13 13:54:22,382 - INFO - Received new packet: SEQ:18
+2025-04-13 13:54:22,382 - INFO - Received ACK for packet 18
+2025-04-13 13:54:22,432 - INFO - Sent packet 19
+2025-04-13 13:54:22,432 - INFO - Received new packet: SEQ:19
+2025-04-13 13:54:22,433 - INFO - Received ACK for packet 19
+2025-04-13 13:54:22,433 - INFO - Server received 20 packets
+2025-04-13 13:54:22,683 - INFO - Window slid from 10 to 20
+2025-04-13 13:54:22,683 - INFO - Client sent 20 packets, base: 20, window: 20-29
+2025-04-13 13:54:22,683 - INFO - Sent packet 20
+2025-04-13 13:54:22,684 - INFO - Received new packet: SEQ:20
+2025-04-13 13:54:22,684 - INFO - Received ACK for packet 20
+2025-04-13 13:54:22,734 - INFO - Sent packet 21
+2025-04-13 13:54:22,734 - INFO - Received new packet: SEQ:21
+2025-04-13 13:54:22,735 - INFO - Received ACK for packet 21
+2025-04-13 13:54:22,785 - INFO - Sent packet 22
+2025-04-13 13:54:22,785 - INFO - Received new packet: SEQ:22
+2025-04-13 13:54:22,785 - INFO - Received ACK for packet 22
+2025-04-13 13:54:22,836 - INFO - Sent packet 23
+2025-04-13 13:54:22,836 - INFO - Received new packet: SEQ:23
+2025-04-13 13:54:22,836 - INFO - Received ACK for packet 23
+2025-04-13 13:54:22,886 - INFO - Sent packet 24
+2025-04-13 13:54:22,887 - INFO - Received new packet: SEQ:24
+2025-04-13 13:54:22,887 - INFO - Received ACK for packet 24
+2025-04-13 13:54:22,937 - INFO - Sent packet 25
+2025-04-13 13:54:22,937 - INFO - Received new packet: SEQ:25
+2025-04-13 13:54:22,938 - INFO - Received ACK for packet 25
+2025-04-13 13:54:22,988 - INFO - Sent packet 26
+2025-04-13 13:54:22,988 - INFO - Received new packet: SEQ:26
+2025-04-13 13:54:22,988 - INFO - Received ACK for packet 26
+2025-04-13 13:54:23,038 - INFO - Sent packet 27
+2025-04-13 13:54:23,039 - INFO - Received new packet: SEQ:27
+2025-04-13 13:54:23,039 - INFO - Received ACK for packet 27
+2025-04-13 13:54:23,089 - INFO - Sent packet 28
+2025-04-13 13:54:23,090 - INFO - Received new packet: SEQ:28
+2025-04-13 13:54:23,090 - INFO - Received ACK for packet 28
+2025-04-13 13:54:23,140 - INFO - Sent packet 29
+2025-04-13 13:54:23,141 - INFO - Received new packet: SEQ:29
+2025-04-13 13:54:23,141 - INFO - Server received 30 packets
+2025-04-13 13:54:23,141 - INFO - Received ACK for packet 29
+2025-04-13 13:54:23,391 - INFO - Window slid from 20 to 30
+2025-04-13 13:54:23,392 - INFO - Sent packet 30
+2025-04-13 13:54:23,392 - INFO - Received new packet: SEQ:30
+2025-04-13 13:54:23,392 - INFO - Received ACK for packet 30
+2025-04-13 13:54:23,442 - INFO - Sent packet 31
+2025-04-13 13:54:23,443 - INFO - Received new packet: SEQ:31
+2025-04-13 13:54:23,443 - INFO - Received ACK for packet 31
+2025-04-13 13:54:23,493 - INFO - Sent packet 32
+2025-04-13 13:54:23,493 - INFO - Received new packet: SEQ:32
+2025-04-13 13:54:23,494 - INFO - Received ACK for packet 32
+2025-04-13 13:54:23,544 - INFO - Sent packet 33
+2025-04-13 13:54:23,544 - INFO - Received new packet: SEQ:33
+2025-04-13 13:54:23,544 - INFO - Received ACK for packet 33
+2025-04-13 13:54:23,594 - INFO - Sent packet 34
+2025-04-13 13:54:23,595 - INFO - Received new packet: SEQ:34
+2025-04-13 13:54:23,595 - INFO - Received ACK for packet 34
+2025-04-13 13:54:23,645 - INFO - Sent packet 35
+2025-04-13 13:54:23,645 - INFO - Received new packet: SEQ:35
+2025-04-13 13:54:23,646 - INFO - Received ACK for packet 35
+2025-04-13 13:54:23,696 - INFO - Sent packet 36
+2025-04-13 13:54:23,696 - INFO - Received new packet: SEQ:36
+2025-04-13 13:54:23,697 - INFO - Received ACK for packet 36
+2025-04-13 13:54:23,747 - INFO - Sent packet 37
+2025-04-13 13:54:23,747 - INFO - Received new packet: SEQ:37
+2025-04-13 13:54:23,748 - INFO - Received ACK for packet 37
+2025-04-13 13:54:23,798 - INFO - Sent packet 38
+2025-04-13 13:54:23,798 - INFO - Received new packet: SEQ:38
+2025-04-13 13:54:23,798 - INFO - Received ACK for packet 38
+2025-04-13 13:54:23,848 - INFO - Sent packet 39
+2025-04-13 13:54:23,849 - INFO - Received new packet: SEQ:39
+2025-04-13 13:54:23,849 - INFO - Server received 40 packets
+2025-04-13 13:54:23,849 - INFO - Received ACK for packet 39
+2025-04-13 13:54:24,099 - INFO - Window slid from 30 to 40
+2025-04-13 13:54:24,100 - INFO - Client sent 40 packets, base: 40, window: 40-49
+2025-04-13 13:54:24,100 - INFO - Sent packet 40
+2025-04-13 13:54:24,100 - INFO - Received new packet: SEQ:40
+2025-04-13 13:54:24,100 - INFO - Received ACK for packet 40
+2025-04-13 13:54:24,150 - INFO - Sent packet 41
+2025-04-13 13:54:24,150 - INFO - Received new packet: SEQ:41
+2025-04-13 13:54:24,151 - INFO - Received ACK for packet 41
+2025-04-13 13:54:24,201 - INFO - Sent packet 42
+2025-04-13 13:54:24,201 - INFO - Received new packet: SEQ:42
+2025-04-13 13:54:24,202 - INFO - Received ACK for packet 42
+2025-04-13 13:54:24,252 - INFO - Sent packet 43
+2025-04-13 13:54:24,252 - INFO - Received new packet: SEQ:43
+2025-04-13 13:54:24,252 - INFO - Received ACK for packet 43
+2025-04-13 13:54:24,303 - INFO - Sent packet 44
+2025-04-13 13:54:24,303 - INFO - Received new packet: SEQ:44
+2025-04-13 13:54:24,303 - INFO - Received ACK for packet 44
+2025-04-13 13:54:24,353 - INFO - Sent packet 45
+2025-04-13 13:54:24,354 - INFO - Received new packet: SEQ:45
+2025-04-13 13:54:24,354 - INFO - Received ACK for packet 45
+2025-04-13 13:54:24,404 - INFO - Sent packet 46
+2025-04-13 13:54:24,404 - INFO - Received new packet: SEQ:46
+2025-04-13 13:54:24,405 - INFO - Received ACK for packet 46
+2025-04-13 13:54:24,455 - INFO - Sent packet 47
+2025-04-13 13:54:24,455 - INFO - Received new packet: SEQ:47
+2025-04-13 13:54:24,456 - INFO - Received ACK for packet 47
+2025-04-13 13:54:24,506 - INFO - Sent packet 48
+2025-04-13 13:54:24,506 - INFO - Received new packet: SEQ:48
+2025-04-13 13:54:24,506 - INFO - Received ACK for packet 48
+2025-04-13 13:54:24,557 - INFO - Sent packet 49
+2025-04-13 13:54:24,557 - INFO - Received new packet: SEQ:49
+2025-04-13 13:54:24,557 - INFO - Server received 50 packets
+2025-04-13 13:54:24,557 - INFO - Received ACK for packet 49
+2025-04-13 13:54:24,808 - INFO - Window slid from 40 to 50
+2025-04-13 13:54:24,808 - INFO - Sent packet 50
+2025-04-13 13:54:24,808 - INFO - Received new packet: SEQ:50
+2025-04-13 13:54:24,809 - INFO - Received ACK for packet 50
+2025-04-13 13:54:24,859 - INFO - Sent packet 51
+2025-04-13 13:54:24,859 - INFO - Received new packet: SEQ:51
+2025-04-13 13:54:24,859 - INFO - Received ACK for packet 51
+2025-04-13 13:54:24,909 - INFO - Sent packet 52
+2025-04-13 13:54:24,910 - INFO - Received new packet: SEQ:52
+2025-04-13 13:54:24,910 - INFO - Received ACK for packet 52
+2025-04-13 13:54:24,960 - INFO - Sent packet 53
+2025-04-13 13:54:24,961 - INFO - Received new packet: SEQ:53
+2025-04-13 13:54:24,961 - INFO - Received ACK for packet 53
+2025-04-13 13:54:25,011 - INFO - Sent packet 54
+2025-04-13 13:54:25,011 - INFO - Received new packet: SEQ:54
+2025-04-13 13:54:25,012 - INFO - Received ACK for packet 54
+2025-04-13 13:54:25,062 - INFO - Sent packet 55
+2025-04-13 13:54:25,062 - INFO - Received new packet: SEQ:55
+2025-04-13 13:54:25,062 - INFO - Received ACK for packet 55
+2025-04-13 13:54:25,113 - INFO - Sent packet 56
+2025-04-13 13:54:25,113 - INFO - Received new packet: SEQ:56
+2025-04-13 13:54:25,113 - INFO - Received ACK for packet 56
+2025-04-13 13:54:25,163 - INFO - Sent packet 57
+2025-04-13 13:54:25,164 - INFO - Received new packet: SEQ:57
+2025-04-13 13:54:25,164 - INFO - Received ACK for packet 57
+2025-04-13 13:54:25,214 - INFO - Sent packet 58
+2025-04-13 13:54:25,214 - INFO - Received new packet: SEQ:58
+2025-04-13 13:54:25,215 - INFO - Received ACK for packet 58
+2025-04-13 13:54:25,265 - INFO - Sent packet 59
+2025-04-13 13:54:25,265 - INFO - Received new packet: SEQ:59
+2025-04-13 13:54:25,265 - INFO - Server received 60 packets
+2025-04-13 13:54:25,266 - INFO - Received ACK for packet 59
+2025-04-13 13:54:25,516 - INFO - Window slid from 50 to 60
+2025-04-13 13:54:25,516 - INFO - Client sent 60 packets, base: 60, window: 60-69
+2025-04-13 13:54:25,516 - INFO - Sent packet 60
+2025-04-13 13:54:25,517 - INFO - Received new packet: SEQ:60
+2025-04-13 13:54:25,517 - INFO - Received ACK for packet 60
+2025-04-13 13:54:25,567 - INFO - Sent packet 61
+2025-04-13 13:54:25,567 - INFO - Received new packet: SEQ:61
+2025-04-13 13:54:25,567 - INFO - Received ACK for packet 61
+2025-04-13 13:54:25,618 - INFO - Sent packet 62
+2025-04-13 13:54:25,618 - INFO - Received new packet: SEQ:62
+2025-04-13 13:54:25,618 - INFO - Received ACK for packet 62
+2025-04-13 13:54:25,668 - INFO - Sent packet 63
+2025-04-13 13:54:25,669 - INFO - Received new packet: SEQ:63
+2025-04-13 13:54:25,669 - INFO - Received ACK for packet 63
+2025-04-13 13:54:25,719 - INFO - Sent packet 64
+2025-04-13 13:54:25,719 - INFO - Received new packet: SEQ:64
+2025-04-13 13:54:25,720 - INFO - Received ACK for packet 64
+2025-04-13 13:54:25,770 - INFO - Sent packet 65
+2025-04-13 13:54:25,770 - INFO - Received new packet: SEQ:65
+2025-04-13 13:54:25,771 - INFO - Received ACK for packet 65
+2025-04-13 13:54:25,821 - INFO - Sent packet 66
+2025-04-13 13:54:25,821 - INFO - Received new packet: SEQ:66
+2025-04-13 13:54:25,822 - INFO - Received ACK for packet 66
+2025-04-13 13:54:25,872 - INFO - Sent packet 67
+2025-04-13 13:54:25,872 - INFO - Received new packet: SEQ:67
+2025-04-13 13:54:25,872 - INFO - Received ACK for packet 67
+2025-04-13 13:54:25,923 - INFO - Sent packet 68
+2025-04-13 13:54:25,923 - INFO - Received new packet: SEQ:68
+2025-04-13 13:54:25,923 - INFO - Received ACK for packet 68
+2025-04-13 13:54:25,974 - INFO - Sent packet 69
+2025-04-13 13:54:25,974 - INFO - Received new packet: SEQ:69
+2025-04-13 13:54:25,975 - INFO - Server received 70 packets
+2025-04-13 13:54:25,975 - INFO - Received ACK for packet 69
+2025-04-13 13:54:26,225 - INFO - Window slid from 60 to 70
+2025-04-13 13:54:26,225 - INFO - Sent packet 70
+2025-04-13 13:54:26,226 - INFO - Received new packet: SEQ:70
+2025-04-13 13:54:26,226 - INFO - Received ACK for packet 70
+2025-04-13 13:54:26,276 - INFO - Sent packet 71
+2025-04-13 13:54:26,276 - INFO - Received new packet: SEQ:71
+2025-04-13 13:54:26,277 - INFO - Received ACK for packet 71
+2025-04-13 13:54:26,327 - INFO - Sent packet 72
+2025-04-13 13:54:26,327 - INFO - Received new packet: SEQ:72
+2025-04-13 13:54:26,328 - INFO - Received ACK for packet 72
+2025-04-13 13:54:26,378 - INFO - Sent packet 73
+2025-04-13 13:54:26,378 - INFO - Received new packet: SEQ:73
+2025-04-13 13:54:26,379 - INFO - Received ACK for packet 73
+2025-04-13 13:54:26,429 - INFO - Sent packet 74
+2025-04-13 13:54:26,429 - INFO - Received new packet: SEQ:74
+2025-04-13 13:54:26,430 - INFO - Received ACK for packet 74
+2025-04-13 13:54:26,480 - INFO - Sent packet 75
+2025-04-13 13:54:26,480 - INFO - Received new packet: SEQ:75
+2025-04-13 13:54:26,481 - INFO - Received ACK for packet 75
+2025-04-13 13:54:26,531 - INFO - Sent packet 76
+2025-04-13 13:54:26,531 - INFO - Received new packet: SEQ:76
+2025-04-13 13:54:26,531 - INFO - Received ACK for packet 76
+2025-04-13 13:54:26,582 - INFO - Sent packet 77
+2025-04-13 13:54:26,582 - INFO - Received new packet: SEQ:77
+2025-04-13 13:54:26,582 - INFO - Received ACK for packet 77
+2025-04-13 13:54:26,632 - INFO - Sent packet 78
+2025-04-13 13:54:26,633 - INFO - Received new packet: SEQ:78
+2025-04-13 13:54:26,633 - INFO - Received ACK for packet 78
+2025-04-13 13:54:26,683 - INFO - Sent packet 79
+2025-04-13 13:54:26,684 - INFO - Received new packet: SEQ:79
+2025-04-13 13:54:26,684 - INFO - Server received 80 packets
+2025-04-13 13:54:26,684 - INFO - Received ACK for packet 79
+2025-04-13 13:54:26,934 - INFO - Window slid from 70 to 80
+2025-04-13 13:54:26,935 - INFO - Client sent 80 packets, base: 80, window: 80-89
+2025-04-13 13:54:26,935 - INFO - Sent packet 80
+2025-04-13 13:54:26,935 - INFO - Received new packet: SEQ:80
+2025-04-13 13:54:26,935 - INFO - Received ACK for packet 80
+2025-04-13 13:54:26,985 - INFO - Sent packet 81
+2025-04-13 13:54:26,985 - INFO - Received new packet: SEQ:81
+2025-04-13 13:54:26,986 - INFO - Received ACK for packet 81
+2025-04-13 13:54:27,036 - INFO - Sent packet 82
+2025-04-13 13:54:27,036 - INFO - Received new packet: SEQ:82
+2025-04-13 13:54:27,037 - INFO - Received ACK for packet 82
+2025-04-13 13:54:27,087 - INFO - Sent packet 83
+2025-04-13 13:54:27,087 - INFO - Received new packet: SEQ:83
+2025-04-13 13:54:27,088 - INFO - Received ACK for packet 83
+2025-04-13 13:54:27,138 - INFO - Sent packet 84
+2025-04-13 13:54:27,138 - INFO - Received new packet: SEQ:84
+2025-04-13 13:54:27,138 - INFO - Received ACK for packet 84
+2025-04-13 13:54:27,189 - INFO - Sent packet 85
+2025-04-13 13:54:27,189 - INFO - Received new packet: SEQ:85
+2025-04-13 13:54:27,189 - INFO - Received ACK for packet 85
+2025-04-13 13:54:27,239 - INFO - Sent packet 86
+2025-04-13 13:54:27,240 - INFO - Received new packet: SEQ:86
+2025-04-13 13:54:27,240 - INFO - Received ACK for packet 86
+2025-04-13 13:54:27,290 - INFO - Sent packet 87
+2025-04-13 13:54:27,290 - INFO - Received new packet: SEQ:87
+2025-04-13 13:54:27,291 - INFO - Received ACK for packet 87
+2025-04-13 13:54:27,341 - INFO - Sent packet 88
+2025-04-13 13:54:27,341 - INFO - Received new packet: SEQ:88
+2025-04-13 13:54:27,341 - INFO - Received ACK for packet 88
+2025-04-13 13:54:27,391 - INFO - Sent packet 89
+2025-04-13 13:54:27,392 - INFO - Received new packet: SEQ:89
+2025-04-13 13:54:27,392 - INFO - Server received 90 packets
+2025-04-13 13:54:27,392 - INFO - Received ACK for packet 89
+2025-04-13 13:54:27,643 - INFO - Window slid from 80 to 90
+2025-04-13 13:54:27,643 - INFO - Sent packet 90
+2025-04-13 13:54:27,643 - INFO - Received new packet: SEQ:90
+2025-04-13 13:54:27,644 - INFO - Received ACK for packet 90
+2025-04-13 13:54:27,694 - INFO - Sent packet 91
+2025-04-13 13:54:27,694 - INFO - Received new packet: SEQ:91
+2025-04-13 13:54:27,694 - INFO - Received ACK for packet 91
+2025-04-13 13:54:27,744 - INFO - Sent packet 92
+2025-04-13 13:54:27,745 - INFO - Received new packet: SEQ:92
+2025-04-13 13:54:27,745 - INFO - Received ACK for packet 92
+2025-04-13 13:54:27,795 - INFO - Sent packet 93
+2025-04-13 13:54:27,796 - INFO - Received new packet: SEQ:93
+2025-04-13 13:54:27,796 - INFO - Received ACK for packet 93
+2025-04-13 13:54:27,846 - INFO - Sent packet 94
+2025-04-13 13:54:27,846 - INFO - Received new packet: SEQ:94
+2025-04-13 13:54:27,847 - INFO - Received ACK for packet 94
+2025-04-13 13:54:27,897 - INFO - Sent packet 95
+2025-04-13 13:54:27,897 - INFO - Received new packet: SEQ:95
+2025-04-13 13:54:27,897 - INFO - Received ACK for packet 95
+2025-04-13 13:54:27,947 - INFO - Sent packet 96
+2025-04-13 13:54:27,948 - INFO - Received new packet: SEQ:96
+2025-04-13 13:54:27,948 - INFO - Received ACK for packet 96
+2025-04-13 13:54:27,998 - INFO - Sent packet 97
+2025-04-13 13:54:27,999 - INFO - Received new packet: SEQ:97
+2025-04-13 13:54:27,999 - INFO - Received ACK for packet 97
+2025-04-13 13:54:28,049 - INFO - Sent packet 98
+2025-04-13 13:54:28,049 - INFO - Received new packet: SEQ:98
+2025-04-13 13:54:28,050 - INFO - Received ACK for packet 98
+2025-04-13 13:54:28,100 - INFO - Sent packet 99
+2025-04-13 13:54:28,100 - INFO - Received new packet: SEQ:99
+2025-04-13 13:54:28,101 - INFO - Server received 100 packets
+2025-04-13 13:54:28,101 - INFO - Received ACK for packet 99
+2025-04-13 13:54:28,351 - INFO - Window slid from 90 to 100
+2025-04-13 13:54:28,351 - INFO - Client sent 100 packets, base: 100, window: 100-109
+2025-04-13 13:54:28,351 - INFO - Sent packet 100
+2025-04-13 13:54:28,351 - INFO - Received new packet: SEQ:100
+2025-04-13 13:54:28,352 - INFO - Received ACK for packet 100
+2025-04-13 13:54:28,402 - INFO - Sent packet 101
+2025-04-13 13:54:28,402 - INFO - Received new packet: SEQ:101
+2025-04-13 13:54:28,403 - INFO - Received ACK for packet 101
+2025-04-13 13:54:28,453 - INFO - Sent packet 102
+2025-04-13 13:54:28,453 - INFO - Received new packet: SEQ:102
+2025-04-13 13:54:28,453 - INFO - Received ACK for packet 102
+2025-04-13 13:54:28,504 - INFO - Sent packet 103
+2025-04-13 13:54:28,504 - INFO - Received new packet: SEQ:103
+2025-04-13 13:54:28,504 - INFO - Received ACK for packet 103
+2025-04-13 13:54:28,554 - INFO - Sent packet 104
+2025-04-13 13:54:28,555 - INFO - Received new packet: SEQ:104
+2025-04-13 13:54:28,555 - INFO - Received ACK for packet 104
+2025-04-13 13:54:28,605 - INFO - Sent packet 105
+2025-04-13 13:54:28,605 - INFO - Received new packet: SEQ:105
+2025-04-13 13:54:28,606 - INFO - Received ACK for packet 105
+2025-04-13 13:54:28,656 - INFO - Sent packet 106
+2025-04-13 13:54:28,656 - INFO - Received new packet: SEQ:106
+2025-04-13 13:54:28,656 - INFO - Received ACK for packet 106
+2025-04-13 13:54:28,706 - INFO - Sent packet 107
+2025-04-13 13:54:28,707 - INFO - Received new packet: SEQ:107
+2025-04-13 13:54:28,707 - INFO - Received ACK for packet 107
+2025-04-13 13:54:28,757 - INFO - Sent packet 108
+2025-04-13 13:54:28,758 - INFO - Received new packet: SEQ:108
+2025-04-13 13:54:28,758 - INFO - Received ACK for packet 108
+2025-04-13 13:54:28,808 - INFO - Sent packet 109
+2025-04-13 13:54:28,809 - INFO - Received new packet: SEQ:109
+2025-04-13 13:54:28,809 - INFO - Server received 110 packets
+2025-04-13 13:54:28,809 - INFO - Received ACK for packet 109
+2025-04-13 13:54:29,059 - INFO - Window slid from 100 to 110
+2025-04-13 13:54:29,060 - INFO - Sent packet 110
+2025-04-13 13:54:29,060 - INFO - Received new packet: SEQ:110
+2025-04-13 13:54:29,060 - INFO - Received ACK for packet 110
+2025-04-13 13:54:29,110 - INFO - Sent packet 111
+2025-04-13 13:54:29,111 - INFO - Received new packet: SEQ:111
+2025-04-13 13:54:29,111 - INFO - Received ACK for packet 111
+2025-04-13 13:54:29,161 - INFO - Sent packet 112
+2025-04-13 13:54:29,162 - INFO - Received new packet: SEQ:112
+2025-04-13 13:54:29,162 - INFO - Received ACK for packet 112
+2025-04-13 13:54:29,212 - INFO - Sent packet 113
+2025-04-13 13:54:29,212 - INFO - Received new packet: SEQ:113
+2025-04-13 13:54:29,213 - INFO - Received ACK for packet 113
+2025-04-13 13:54:29,263 - INFO - Sent packet 114
+2025-04-13 13:54:29,263 - INFO - Received new packet: SEQ:114
+2025-04-13 13:54:29,264 - INFO - Received ACK for packet 114
+2025-04-13 13:54:29,314 - INFO - Sent packet 115
+2025-04-13 13:54:29,314 - INFO - Received new packet: SEQ:115
+2025-04-13 13:54:29,314 - INFO - Received ACK for packet 115
+2025-04-13 13:54:29,365 - INFO - Sent packet 116
+2025-04-13 13:54:29,365 - INFO - Received new packet: SEQ:116
+2025-04-13 13:54:29,365 - INFO - Received ACK for packet 116
+2025-04-13 13:54:29,415 - INFO - Sent packet 117
+2025-04-13 13:54:29,416 - INFO - Received new packet: SEQ:117
+2025-04-13 13:54:29,416 - INFO - Received ACK for packet 117
+2025-04-13 13:54:29,466 - INFO - Sent packet 118
+2025-04-13 13:54:29,466 - INFO - Received new packet: SEQ:118
+2025-04-13 13:54:29,467 - INFO - Received ACK for packet 118
+2025-04-13 13:54:29,517 - INFO - Sent packet 119
+2025-04-13 13:54:29,517 - INFO - Received new packet: SEQ:119
+2025-04-13 13:54:29,517 - INFO - Server received 120 packets
+2025-04-13 13:54:29,518 - INFO - Received ACK for packet 119
+2025-04-13 13:54:29,768 - INFO - Window slid from 110 to 120
+2025-04-13 13:54:29,768 - INFO - Client sent 120 packets, base: 120, window: 120-129
+2025-04-13 13:54:29,768 - INFO - Sent packet 120
+2025-04-13 13:54:29,768 - INFO - Received new packet: SEQ:120
+2025-04-13 13:54:29,769 - INFO - Received ACK for packet 120
+2025-04-13 13:54:29,819 - INFO - Sent packet 121
+2025-04-13 13:54:29,819 - INFO - Received new packet: SEQ:121
+2025-04-13 13:54:29,819 - INFO - Received ACK for packet 121
+2025-04-13 13:54:29,870 - INFO - Sent packet 122
+2025-04-13 13:54:29,870 - INFO - Received new packet: SEQ:122
+2025-04-13 13:54:29,870 - INFO - Received ACK for packet 122
+2025-04-13 13:54:29,920 - INFO - Sent packet 123
+2025-04-13 13:54:29,921 - INFO - Received new packet: SEQ:123
+2025-04-13 13:54:29,921 - INFO - Received ACK for packet 123
+2025-04-13 13:54:29,971 - INFO - Sent packet 124
+2025-04-13 13:54:29,972 - INFO - Received new packet: SEQ:124
+2025-04-13 13:54:29,972 - INFO - Received ACK for packet 124
+2025-04-13 13:54:30,022 - INFO - Sent packet 125
+2025-04-13 13:54:30,023 - INFO - Received new packet: SEQ:125
+2025-04-13 13:54:30,023 - INFO - Received ACK for packet 125
+2025-04-13 13:54:30,073 - INFO - Sent packet 126
+2025-04-13 13:54:30,073 - INFO - Received new packet: SEQ:126
+2025-04-13 13:54:30,074 - INFO - Received ACK for packet 126
+2025-04-13 13:54:30,124 - INFO - Sent packet 127
+2025-04-13 13:54:30,125 - INFO - Received new packet: SEQ:127
+2025-04-13 13:54:30,125 - INFO - Received ACK for packet 127
+2025-04-13 13:54:30,175 - INFO - Sent packet 128
+2025-04-13 13:54:30,175 - INFO - Received new packet: SEQ:128
+2025-04-13 13:54:30,176 - INFO - Received ACK for packet 128
+2025-04-13 13:54:30,226 - INFO - Sent packet 129
+2025-04-13 13:54:30,226 - INFO - Received new packet: SEQ:129
+2025-04-13 13:54:30,227 - INFO - Server received 130 packets
+2025-04-13 13:54:30,227 - INFO - Received ACK for packet 129
+2025-04-13 13:54:30,477 - INFO - Window slid from 120 to 130
+2025-04-13 13:54:30,477 - INFO - Sent packet 130
+2025-04-13 13:54:30,478 - INFO - Received new packet: SEQ:130
+2025-04-13 13:54:30,478 - INFO - Received ACK for packet 130
+2025-04-13 13:54:30,528 - INFO - Dropping packet 131
+2025-04-13 13:54:30,578 - INFO - Sent packet 132
+2025-04-13 13:54:30,578 - INFO - Received new packet: SEQ:132
+2025-04-13 13:54:30,579 - INFO - Received ACK for packet 132
+2025-04-13 13:54:30,629 - INFO - Sent packet 133
+2025-04-13 13:54:30,629 - INFO - Received new packet: SEQ:133
+2025-04-13 13:54:30,630 - INFO - Received ACK for packet 133
+2025-04-13 13:54:30,680 - INFO - Sent packet 134
+2025-04-13 13:54:30,680 - INFO - Received new packet: SEQ:134
+2025-04-13 13:54:30,680 - INFO - Received ACK for packet 134
+2025-04-13 13:54:30,731 - INFO - Sent packet 135
+2025-04-13 13:54:30,731 - INFO - Received new packet: SEQ:135
+2025-04-13 13:54:30,731 - INFO - Received ACK for packet 135
+2025-04-13 13:54:30,781 - INFO - Sent packet 136
+2025-04-13 13:54:30,781 - INFO - Received new packet: SEQ:136
+2025-04-13 13:54:30,782 - INFO - Received ACK for packet 136
+2025-04-13 13:54:30,832 - INFO - Sent packet 137
+2025-04-13 13:54:30,832 - INFO - Received new packet: SEQ:137
+2025-04-13 13:54:30,832 - INFO - Received ACK for packet 137
+2025-04-13 13:54:30,883 - INFO - Sent packet 138
+2025-04-13 13:54:30,883 - INFO - Received new packet: SEQ:138
+2025-04-13 13:54:30,883 - INFO - Received ACK for packet 138
+2025-04-13 13:54:30,933 - INFO - Sent packet 139
+2025-04-13 13:54:30,933 - INFO - Received new packet: SEQ:139
+2025-04-13 13:54:30,934 - INFO - Received ACK for packet 139
+2025-04-13 13:54:31,184 - INFO - Window slid from 130 to 131
+2025-04-13 13:54:31,184 - INFO - Client sent 140 packets, base: 131, window: 131-140
+2025-04-13 13:54:31,185 - INFO - Sent packet 140
+2025-04-13 13:54:31,185 - INFO - Received new packet: SEQ:140
+2025-04-13 13:54:31,185 - INFO - Server received 140 packets
+2025-04-13 13:54:31,185 - INFO - Received ACK for packet 140
