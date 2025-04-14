@@ -66,7 +66,7 @@ The window size increased over time as the transmission progressed successfully,
 
 The following graph shows how the TCP sender's window size changed over time during the transmission:
 
-![TCP Sender Window Size Over Time](/home/ubuntu/tcp_project/graphs/sender_window_size.png)
+![TCP Sender Window Size Over Time](graphs/sender_window_size.png)
 
 The graph demonstrates the growth of the window size as the transmission progresses successfully. This is consistent with TCP's congestion control mechanisms, where the window size increases when packets are successfully acknowledged.
 
@@ -74,7 +74,7 @@ The graph demonstrates the growth of the window size as the transmission progres
 
 The following graph shows the sequence numbers received by the server over time:
 
-![TCP Sequence Numbers Received Over Time](/home/ubuntu/tcp_project/graphs/sequence_numbers_received.png)
+![TCP Sequence Numbers Received Over Time](graphs/sequence_numbers_received.png)
 
 The linear progression of sequence numbers indicates successful and orderly packet delivery. The consistent slope shows that packets were received at a relatively constant rate.
 
@@ -82,7 +82,7 @@ The linear progression of sequence numbers indicates successful and orderly pack
 
 The following graph shows the sequence numbers that were dropped during transmission:
 
-![TCP Sequence Numbers Dropped Over Time](/home/ubuntu/tcp_project/graphs/sequence_numbers_dropped.png)
+![TCP Sequence Numbers Dropped Over Time](graphs/sequence_numbers_dropped.png)
 
 The graph shows that packet with sequence number 131 was dropped during the transmission. This demonstrates the packet drop simulation working as expected with the 1% drop rate.
 
